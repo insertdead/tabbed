@@ -1,0 +1,6 @@
+config.h
+*.rej
+*.orig
+*.o
+tabbed
+*.diff
